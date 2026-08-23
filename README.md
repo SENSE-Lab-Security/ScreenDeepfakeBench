@@ -9,7 +9,7 @@ Official benchmark repository for the RAID 2026 paper:
 ## Overview
 
 <p align="center">
-  <img src="overview.pdf"
+  <img src="overview.png"
        alt="Overview of the ScreenDeepfakeBench threat model"
        width="750">
 </p>

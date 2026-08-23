@@ -8,6 +8,17 @@ Official benchmark repository for the RAID 2026 paper:
 
 ## Overview
 
+<p align="center">
+  <img src="overview.pdf"
+       alt="Overview of the ScreenDeepfakeBench threat model"
+       width="750">
+</p>
+
+<p align="center">
+  <em>Comparison between conventional digital-domain detection and
+  display-recapture deepfake detection.</em>
+</p>
+
 ScreenDeepfakeBench is a benchmark for evaluating and improving deepfake
 detectors under physical display-recapture conditions.
 

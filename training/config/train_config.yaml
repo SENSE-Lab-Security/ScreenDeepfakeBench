@@ -1,0 +1,12 @@
+mode: train
+lmdb: false
+dry_run: false
+rgb_dir: data
+dataset_json_folder: outputs/indexes
+SWA: false
+save_avg: true
+use_weighted_sampler: true
+log_dir: outputs/training
+label_dict:
+  real: 0
+  fake: 1

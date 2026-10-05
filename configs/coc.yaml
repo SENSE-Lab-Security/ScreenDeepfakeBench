@@ -1,0 +1,203 @@
+log_dir: outputs/training
+recapture_aug_mode: coc
+brightness_contrast_prob: 0.5
+hsv_prob: 0.3
+pca_prob: 0.5
+geo_prob: 0.3
+dist_prob: 0.3
+comp_strong_prob: 0.7
+pretrained: checkpoints/imagenet_xception.pth
+model_name: xception
+backbone_name: xception
+backbone_config:
+  mode: original
+  num_classes: 2
+  inc: 3
+  dropout: false
+all_dataset:
+- celebdf_train
+- digital_d1
+- digital_d2
+- controlled_distance__vivo-v21__seewo__140cm
+- controlled_distance__vivo-v21__seewo__190cm
+- controlled_distance__vivo-v21__seewo__240cm
+- controlled_distance__vivo-v21__seewo__290cm
+- controlled_distance__vivo-v21__seewo__340cm
+- controlled_distance__vivo-v21__seewo__390cm
+- controlled_distance__vivo-v21__seewo__440cm
+- controlled_distance__vivo-v21__seewo__490cm
+- controlled_light__vivo-v21__seewo__bright
+- controlled_light__vivo-v21__seewo__dark
+- controlled_light__vivo-v21__seewo__normal
+- multifactor__meta-wayfarer__maxhub-55__natural
+- multifactor__meta-wayfarer__seewo__natural
+- multifactor__meta-wayfarer__starzen__natural
+- multifactor__meta-wayfarer__aoc__natural
+- multifactor__meta-wayfarer__maxhub-86__natural
+- multifactor__meta-wayfarer__redmi__natural
+- multifactor__rokid-glasses__maxhub-55__natural
+- multifactor__rokid-glasses__seewo__natural
+- multifactor__rokid-glasses__aoc__natural
+- multifactor__rokid-glasses__maxhub-86__natural
+- multifactor__rokid-glasses__redmi__natural
+- multifactor__rokid-glasses__starzen__natural
+- multifactor__iphone-17-pro__maxhub-55__angle-45__occupancy-15
+- multifactor__iphone-17-pro__maxhub-55__angle-0__occupancy-30
+- multifactor__iphone-17-pro__maxhub-55__angle-45__occupancy-30
+- multifactor__iphone-17-pro__maxhub-55__angle-45__occupancy-45
+- multifactor__iphone-17-pro__maxhub-55__angle-0__occupancy-60
+- multifactor__iphone-17-pro__maxhub-55__angle-0__occupancy-90
+- multifactor__iphone-17-pro__maxhub-86__angle-45__occupancy-15
+- multifactor__iphone-17-pro__maxhub-86__angle-0__occupancy-30
+- multifactor__iphone-17-pro__maxhub-86__angle-45__occupancy-30
+- multifactor__iphone-17-pro__maxhub-86__angle-45__occupancy-45
+- multifactor__iphone-17-pro__maxhub-86__angle-0__occupancy-60
+- multifactor__iphone-17-pro__maxhub-86__angle-0__occupancy-90
+- multifactor__iphone-17-pro__starzen__angle-45__occupancy-15
+- multifactor__iphone-17-pro__starzen__angle-0__occupancy-30
+- multifactor__iphone-17-pro__starzen__angle-45__occupancy-30
+- multifactor__iphone-17-pro__starzen__angle-45__occupancy-45
+- multifactor__iphone-17-pro__starzen__angle-0__occupancy-60
+- multifactor__iphone-17-pro__starzen__angle-0__occupancy-90
+- multifactor__iphone-17-pro__seewo__angle-45__occupancy-15
+- multifactor__iphone-17-pro__seewo__angle-0__occupancy-30
+- multifactor__iphone-17-pro__seewo__angle-45__occupancy-30
+- multifactor__iphone-17-pro__seewo__angle-45__occupancy-45
+- multifactor__iphone-17-pro__seewo__angle-0__occupancy-60
+- multifactor__iphone-17-pro__seewo__angle-0__occupancy-90
+- multifactor__iphone-17-pro__aoc__angle-45__occupancy-15
+- multifactor__iphone-17-pro__aoc__angle-0__occupancy-30
+- multifactor__iphone-17-pro__aoc__angle-45__occupancy-30
+- multifactor__iphone-17-pro__aoc__angle-45__occupancy-45
+- multifactor__iphone-17-pro__aoc__angle-0__occupancy-60
+- multifactor__iphone-17-pro__aoc__angle-0__occupancy-90
+- multifactor__iphone-17-pro__redmi__angle-45__occupancy-15
+- multifactor__iphone-17-pro__redmi__angle-0__occupancy-30
+- multifactor__iphone-17-pro__redmi__angle-45__occupancy-30
+- multifactor__iphone-17-pro__redmi__angle-45__occupancy-45
+- multifactor__iphone-17-pro__redmi__angle-0__occupancy-60
+- multifactor__iphone-17-pro__redmi__angle-0__occupancy-90
+- multifactor__vivo-v21__maxhub-55__angle-45__occupancy-15
+- multifactor__vivo-v21__maxhub-55__angle-0__occupancy-30
+- multifactor__vivo-v21__maxhub-55__angle-45__occupancy-30
+- multifactor__vivo-v21__maxhub-55__angle-45__occupancy-45
+- multifactor__vivo-v21__maxhub-55__angle-0__occupancy-60
+- multifactor__vivo-v21__maxhub-55__angle-0__occupancy-90
+- multifactor__vivo-v21__maxhub-86__angle-45__occupancy-15
+- multifactor__vivo-v21__maxhub-86__angle-0__occupancy-30
+- multifactor__vivo-v21__maxhub-86__angle-45__occupancy-30
+- multifactor__vivo-v21__maxhub-86__angle-45__occupancy-45
+- multifactor__vivo-v21__maxhub-86__angle-0__occupancy-60
+- multifactor__vivo-v21__maxhub-86__angle-0__occupancy-90
+- multifactor__vivo-v21__starzen__angle-45__occupancy-15
+- multifactor__vivo-v21__starzen__angle-0__occupancy-30
+- multifactor__vivo-v21__starzen__angle-45__occupancy-30
+- multifactor__vivo-v21__starzen__angle-45__occupancy-45
+- multifactor__vivo-v21__starzen__angle-0__occupancy-60
+- multifactor__vivo-v21__starzen__angle-0__occupancy-90
+- multifactor__vivo-v21__seewo__angle-45__occupancy-15
+- multifactor__vivo-v21__seewo__angle-0__occupancy-30
+- multifactor__vivo-v21__seewo__angle-45__occupancy-30
+- multifactor__vivo-v21__seewo__angle-45__occupancy-45
+- multifactor__vivo-v21__seewo__angle-0__occupancy-60
+- multifactor__vivo-v21__seewo__angle-0__occupancy-90
+- multifactor__vivo-v21__aoc__angle-45__occupancy-15
+- multifactor__vivo-v21__aoc__angle-0__occupancy-30
+- multifactor__vivo-v21__aoc__angle-45__occupancy-30
+- multifactor__vivo-v21__aoc__angle-45__occupancy-45
+- multifactor__vivo-v21__aoc__angle-0__occupancy-60
+- multifactor__vivo-v21__aoc__angle-0__occupancy-90
+- multifactor__vivo-v21__redmi__angle-45__occupancy-15
+- multifactor__vivo-v21__redmi__angle-0__occupancy-30
+- multifactor__vivo-v21__redmi__angle-45__occupancy-30
+- multifactor__vivo-v21__redmi__angle-45__occupancy-45
+- multifactor__vivo-v21__redmi__angle-0__occupancy-60
+- multifactor__vivo-v21__redmi__angle-0__occupancy-90
+- controlled_angle__vivo-v21__seewo__h15-v0
+- controlled_angle__vivo-v21__seewo__h0-v15
+- controlled_angle__vivo-v21__seewo__h30-v0
+- controlled_angle__vivo-v21__seewo__h30-v30
+- controlled_angle__vivo-v21__seewo__h0-v30
+- controlled_angle__vivo-v21__seewo__h45-v0
+- controlled_angle__vivo-v21__seewo__h0-v45
+- controlled_moire__vivo-v21__redmi__induced
+train_dataset:
+- celebdf_train
+test_dataset:
+- digital_d1
+- digital_d2
+compression: c23
+workers: 4
+train_batchSize: 32
+test_batchSize: 32
+frame_num:
+  train: 32
+  test: 5
+resolution: 256
+with_mask: false
+with_landmark: false
+use_data_augmentation: true
+data_aug:
+  flip_prob: 0.0
+  rotate_prob: 0.0
+  rotate_limit:
+  - -10
+  - 10
+  blur_prob: 0.0
+  blur_limit:
+  - 3
+  - 7
+  brightness_prob: 0.0
+  brightness_limit:
+  - -0.1
+  - 0.1
+  contrast_limit:
+  - -0.1
+  - 0.1
+  quality_lower: 100
+  quality_upper: 100
+mean:
+- 0.5
+- 0.5
+- 0.5
+std:
+- 0.5
+- 0.5
+- 0.5
+optimizer:
+  type: adam
+  adam:
+    lr: 0.0002
+    beta1: 0.9
+    beta2: 0.999
+    eps: 1.0e-08
+    weight_decay: 0.0005
+    amsgrad: false
+  sgd:
+    lr: 0.0002
+    momentum: 0.9
+    weight_decay: 0.0005
+lr_scheduler: null
+nEpochs: 10
+start_epoch: 0
+save_epoch: 1
+rec_iter: 100
+manualSeed: 1024
+save_ckpt: true
+save_feat: true
+loss_func: cross_entropy
+losstype: null
+metric_scoring: auc
+cuda: true
+cudnn: true
+mode: train
+lmdb: false
+dry_run: false
+rgb_dir: data
+dataset_json_folder: outputs/indexes
+SWA: false
+save_avg: true
+use_weighted_sampler: true
+label_dict:
+  real: 0
+  fake: 1

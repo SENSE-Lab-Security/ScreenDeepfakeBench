@@ -1,0 +1,212 @@
+{
+  "multifactor__iphone-17-pro__starzen__angle-45__occupancy-45": {
+    "real": {
+      "test": {
+        "00029": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00029/frame_000046.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00029/frame_000139.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00029/frame_000231.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00029/frame_000323.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00029/frame_000416.jpg"
+          ]
+        },
+        "00071": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00071/frame_000051.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00071/frame_000152.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00071/frame_000254.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00071/frame_000355.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00071/frame_000456.jpg"
+          ]
+        },
+        "00193": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00193/frame_000035.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00193/frame_000106.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00193/frame_000176.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00193/frame_000246.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00193/frame_000317.jpg"
+          ]
+        },
+        "00232": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00232/frame_000047.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00232/frame_000141.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00232/frame_000235.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00232/frame_000329.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00232/frame_000423.jpg"
+          ]
+        },
+        "00250": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00250/frame_000030.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00250/frame_000089.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00250/frame_000149.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00250/frame_000209.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/00250/frame_000268.jpg"
+          ]
+        },
+        "id10_0005": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id10_0005/frame_000032.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id10_0005/frame_000095.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id10_0005/frame_000158.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id10_0005/frame_000222.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id10_0005/frame_000285.jpg"
+          ]
+        },
+        "id13_0014": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id13_0014/frame_000039.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id13_0014/frame_000117.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id13_0014/frame_000194.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id13_0014/frame_000272.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id13_0014/frame_000350.jpg"
+          ]
+        },
+        "id37_0003": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id37_0003/frame_000035.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id37_0003/frame_000106.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id37_0003/frame_000176.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id37_0003/frame_000246.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id37_0003/frame_000317.jpg"
+          ]
+        },
+        "id45_0009": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id45_0009/frame_000033.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id45_0009/frame_000098.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id45_0009/frame_000164.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id45_0009/frame_000229.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id45_0009/frame_000294.jpg"
+          ]
+        },
+        "id48_0006": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id48_0006/frame_000033.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id48_0006/frame_000098.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id48_0006/frame_000163.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id48_0006/frame_000228.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/real/id48_0006/frame_000293.jpg"
+          ]
+        }
+      }
+    },
+    "fake": {
+      "test": {
+        "id0_id17_0006": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id0_id17_0006/frame_000053.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id0_id17_0006/frame_000160.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id0_id17_0006/frame_000266.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id0_id17_0006/frame_000373.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id0_id17_0006/frame_000480.jpg"
+          ]
+        },
+        "id20_id28_0008": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id20_id28_0008/frame_000034.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id20_id28_0008/frame_000101.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id20_id28_0008/frame_000168.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id20_id28_0008/frame_000236.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id20_id28_0008/frame_000303.jpg"
+          ]
+        },
+        "id30_id16_0005": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id30_id16_0005/frame_000045.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id30_id16_0005/frame_000134.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id30_id16_0005/frame_000224.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id30_id16_0005/frame_000313.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id30_id16_0005/frame_000402.jpg"
+          ]
+        },
+        "id31_id35_0005": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id31_id35_0005/frame_000035.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id31_id35_0005/frame_000104.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id31_id35_0005/frame_000174.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id31_id35_0005/frame_000244.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id31_id35_0005/frame_000313.jpg"
+          ]
+        },
+        "id32_id20_0007": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id32_id20_0007/frame_000046.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id32_id20_0007/frame_000137.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id32_id20_0007/frame_000228.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id32_id20_0007/frame_000319.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id32_id20_0007/frame_000410.jpg"
+          ]
+        },
+        "id37_id16_0000": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id37_id16_0000/frame_000050.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id37_id16_0000/frame_000150.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id37_id16_0000/frame_000250.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id37_id16_0000/frame_000351.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id37_id16_0000/frame_000451.jpg"
+          ]
+        },
+        "id3_id6_0007": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id3_id6_0007/frame_000036.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id3_id6_0007/frame_000108.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id3_id6_0007/frame_000180.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id3_id6_0007/frame_000252.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id3_id6_0007/frame_000324.jpg"
+          ]
+        },
+        "id42_id39_0003": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id42_id39_0003/frame_000031.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id42_id39_0003/frame_000093.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id42_id39_0003/frame_000154.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id42_id39_0003/frame_000216.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id42_id39_0003/frame_000278.jpg"
+          ]
+        },
+        "id5_id59_0008": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id5_id59_0008/frame_000058.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id5_id59_0008/frame_000175.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id5_id59_0008/frame_000292.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id5_id59_0008/frame_000408.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id5_id59_0008/frame_000525.jpg"
+          ]
+        },
+        "id6_id16_0002": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id6_id16_0002/frame_000061.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id6_id16_0002/frame_000183.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id6_id16_0002/frame_000305.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id6_id16_0002/frame_000427.jpg",
+            "data/benchmark_inputs/multifactor__iphone-17-pro__starzen__angle-45__occupancy-45/fake/id6_id16_0002/frame_000549.jpg"
+          ]
+        }
+      }
+    }
+  }
+}

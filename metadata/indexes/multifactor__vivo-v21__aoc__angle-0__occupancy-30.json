@@ -1,0 +1,1012 @@
+{
+  "multifactor__vivo-v21__aoc__angle-0__occupancy-30": {
+    "real": {
+      "test": {
+        "00009": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00009/frame_000057.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00009/frame_000172.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00009/frame_000287.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00009/frame_000402.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00009/frame_000517.png"
+          ]
+        },
+        "00017": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00017/frame_000028.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00017/frame_000084.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00017/frame_000140.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00017/frame_000197.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00017/frame_000253.png"
+          ]
+        },
+        "00029": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00029/frame_000046.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00029/frame_000139.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00029/frame_000231.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00029/frame_000323.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00029/frame_000416.png"
+          ]
+        },
+        "00048": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00048/frame_000048.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00048/frame_000145.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00048/frame_000242.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00048/frame_000338.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00048/frame_000435.png"
+          ]
+        },
+        "00065": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00065/frame_000049.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00065/frame_000148.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00065/frame_000246.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00065/frame_000344.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00065/frame_000443.png"
+          ]
+        },
+        "00071": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00071/frame_000051.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00071/frame_000152.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00071/frame_000254.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00071/frame_000355.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00071/frame_000456.png"
+          ]
+        },
+        "00091": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00091/frame_000045.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00091/frame_000136.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00091/frame_000227.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00091/frame_000318.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00091/frame_000409.png"
+          ]
+        },
+        "00106": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00106/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00106/frame_000098.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00106/frame_000163.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00106/frame_000228.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00106/frame_000293.png"
+          ]
+        },
+        "00173": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00173/frame_000050.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00173/frame_000149.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00173/frame_000249.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00173/frame_000349.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00173/frame_000448.png"
+          ]
+        },
+        "00177": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00177/frame_000052.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00177/frame_000156.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00177/frame_000260.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00177/frame_000364.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00177/frame_000468.png"
+          ]
+        },
+        "00190": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00190/frame_000046.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00190/frame_000139.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00190/frame_000232.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00190/frame_000325.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00190/frame_000418.png"
+          ]
+        },
+        "00193": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00193/frame_000035.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00193/frame_000106.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00193/frame_000176.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00193/frame_000246.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00193/frame_000317.png"
+          ]
+        },
+        "00226": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00226/frame_000046.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00226/frame_000140.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00226/frame_000232.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00226/frame_000326.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00226/frame_000418.png"
+          ]
+        },
+        "00232": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00232/frame_000047.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00232/frame_000141.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00232/frame_000235.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00232/frame_000329.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00232/frame_000423.png"
+          ]
+        },
+        "00235": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00235/frame_000050.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00235/frame_000148.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00235/frame_000248.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00235/frame_000346.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00235/frame_000446.png"
+          ]
+        },
+        "00250": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00250/frame_000030.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00250/frame_000089.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00250/frame_000149.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00250/frame_000209.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00250/frame_000268.png"
+          ]
+        },
+        "00281": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00281/frame_000046.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00281/frame_000137.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00281/frame_000229.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00281/frame_000321.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/00281/frame_000412.png"
+          ]
+        },
+        "id10_0005": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id10_0005/frame_000032.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id10_0005/frame_000095.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id10_0005/frame_000158.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id10_0005/frame_000222.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id10_0005/frame_000285.png"
+          ]
+        },
+        "id11_0004": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0004/frame_000035.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0004/frame_000105.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0004/frame_000174.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0004/frame_000244.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0004/frame_000314.png"
+          ]
+        },
+        "id11_0010": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0010/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0010/frame_000099.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0010/frame_000164.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0010/frame_000230.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id11_0010/frame_000296.png"
+          ]
+        },
+        "id12_0000": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id12_0000/frame_000038.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id12_0000/frame_000112.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id12_0000/frame_000188.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id12_0000/frame_000262.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id12_0000/frame_000338.png"
+          ]
+        },
+        "id13_0006": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0006/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0006/frame_000100.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0006/frame_000166.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0006/frame_000232.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0006/frame_000299.png"
+          ]
+        },
+        "id13_0012": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0012/frame_000051.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0012/frame_000153.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0012/frame_000254.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0012/frame_000356.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0012/frame_000458.png"
+          ]
+        },
+        "id13_0014": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0014/frame_000039.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0014/frame_000117.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0014/frame_000194.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0014/frame_000272.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id13_0014/frame_000350.png"
+          ]
+        },
+        "id16_0011": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id16_0011/frame_000027.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id16_0011/frame_000081.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id16_0011/frame_000136.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id16_0011/frame_000190.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id16_0011/frame_000244.png"
+          ]
+        },
+        "id17_0009": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id17_0009/frame_000030.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id17_0009/frame_000089.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id17_0009/frame_000148.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id17_0009/frame_000208.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id17_0009/frame_000267.png"
+          ]
+        },
+        "id20_0006": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id20_0006/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id20_0006/frame_000098.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id20_0006/frame_000164.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id20_0006/frame_000229.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id20_0006/frame_000294.png"
+          ]
+        },
+        "id22_0008": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id22_0008/frame_000032.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id22_0008/frame_000097.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id22_0008/frame_000162.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id22_0008/frame_000227.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id22_0008/frame_000292.png"
+          ]
+        },
+        "id27_0004": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id27_0004/frame_000031.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id27_0004/frame_000092.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id27_0004/frame_000153.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id27_0004/frame_000214.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id27_0004/frame_000275.png"
+          ]
+        },
+        "id2_0005": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id2_0005/frame_000031.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id2_0005/frame_000092.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id2_0005/frame_000153.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id2_0005/frame_000214.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id2_0005/frame_000275.png"
+          ]
+        },
+        "id31_0004": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id31_0004/frame_000046.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id31_0004/frame_000139.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id31_0004/frame_000232.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id31_0004/frame_000325.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id31_0004/frame_000418.png"
+          ]
+        },
+        "id33_0003": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0003/frame_000049.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0003/frame_000147.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0003/frame_000244.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0003/frame_000342.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0003/frame_000440.png"
+          ]
+        },
+        "id33_0008": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0008/frame_000050.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0008/frame_000151.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0008/frame_000252.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0008/frame_000352.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id33_0008/frame_000453.png"
+          ]
+        },
+        "id37_0003": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id37_0003/frame_000035.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id37_0003/frame_000106.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id37_0003/frame_000176.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id37_0003/frame_000246.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id37_0003/frame_000317.png"
+          ]
+        },
+        "id40_0005": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id40_0005/frame_000032.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id40_0005/frame_000096.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id40_0005/frame_000160.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id40_0005/frame_000225.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id40_0005/frame_000289.png"
+          ]
+        },
+        "id45_0007": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0007/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0007/frame_000100.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0007/frame_000166.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0007/frame_000232.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0007/frame_000299.png"
+          ]
+        },
+        "id45_0009": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0009/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0009/frame_000098.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0009/frame_000164.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0009/frame_000229.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id45_0009/frame_000294.png"
+          ]
+        },
+        "id48_0006": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id48_0006/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id48_0006/frame_000098.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id48_0006/frame_000163.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id48_0006/frame_000228.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id48_0006/frame_000293.png"
+          ]
+        },
+        "id51_0005": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id51_0005/frame_000038.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id51_0005/frame_000115.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id51_0005/frame_000191.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id51_0005/frame_000267.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id51_0005/frame_000344.png"
+          ]
+        },
+        "id54_0009": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id54_0009/frame_000046.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id54_0009/frame_000139.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id54_0009/frame_000232.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id54_0009/frame_000324.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id54_0009/frame_000417.png"
+          ]
+        },
+        "id55_0007": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id55_0007/frame_000048.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id55_0007/frame_000144.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id55_0007/frame_000240.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id55_0007/frame_000336.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id55_0007/frame_000432.png"
+          ]
+        },
+        "id58_0003": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id58_0003/frame_000050.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id58_0003/frame_000150.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id58_0003/frame_000250.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id58_0003/frame_000350.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id58_0003/frame_000450.png"
+          ]
+        },
+        "id5_0001": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0001/frame_000038.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0001/frame_000114.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0001/frame_000190.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0001/frame_000265.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0001/frame_000341.png"
+          ]
+        },
+        "id5_0004": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0004/frame_000048.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0004/frame_000143.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0004/frame_000238.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0004/frame_000334.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id5_0004/frame_000429.png"
+          ]
+        },
+        "id60_0000": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0000/frame_000048.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0000/frame_000143.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0000/frame_000238.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0000/frame_000333.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0000/frame_000428.png"
+          ]
+        },
+        "id60_0005": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0005/frame_000045.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0005/frame_000135.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0005/frame_000224.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0005/frame_000314.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id60_0005/frame_000404.png"
+          ]
+        },
+        "id61_0003": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id61_0003/frame_000046.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id61_0003/frame_000137.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id61_0003/frame_000228.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id61_0003/frame_000319.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id61_0003/frame_000410.png"
+          ]
+        },
+        "id8_0003": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0003/frame_000040.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0003/frame_000120.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0003/frame_000200.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0003/frame_000280.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0003/frame_000360.png"
+          ]
+        },
+        "id8_0005": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0005/frame_000021.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0005/frame_000064.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0005/frame_000107.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0005/frame_000150.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id8_0005/frame_000193.png"
+          ]
+        },
+        "id9_0001": {
+          "label": "real",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id9_0001/frame_000044.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id9_0001/frame_000131.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id9_0001/frame_000218.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id9_0001/frame_000305.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/real/id9_0001/frame_000392.png"
+          ]
+        }
+      }
+    },
+    "fake": {
+      "test": {
+        "id0_id16_0004": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id16_0004/frame_000032.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id16_0004/frame_000098.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id16_0004/frame_000162.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id16_0004/frame_000227.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id16_0004/frame_000292.png"
+          ]
+        },
+        "id0_id17_0006": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id17_0006/frame_000053.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id17_0006/frame_000160.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id17_0006/frame_000266.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id17_0006/frame_000373.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id0_id17_0006/frame_000480.png"
+          ]
+        },
+        "id10_id11_0006": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id10_id11_0006/frame_000016.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id10_id11_0006/frame_000048.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id10_id11_0006/frame_000080.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id10_id11_0006/frame_000112.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id10_id11_0006/frame_000144.png"
+          ]
+        },
+        "id13_id10_0012": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0012/frame_000051.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0012/frame_000153.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0012/frame_000254.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0012/frame_000356.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0012/frame_000458.png"
+          ]
+        },
+        "id13_id10_0015": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0015/frame_000049.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0015/frame_000146.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0015/frame_000244.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0015/frame_000342.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id13_id10_0015/frame_000439.png"
+          ]
+        },
+        "id16_id26_0004": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id16_id26_0004/frame_000041.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id16_id26_0004/frame_000123.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id16_id26_0004/frame_000204.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id16_id26_0004/frame_000286.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id16_id26_0004/frame_000368.png"
+          ]
+        },
+        "id17_id31_0000": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id17_id31_0000/frame_000030.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id17_id31_0000/frame_000091.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id17_id31_0000/frame_000152.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id17_id31_0000/frame_000213.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id17_id31_0000/frame_000274.png"
+          ]
+        },
+        "id1_id26_0006": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id1_id26_0006/frame_000050.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id1_id26_0006/frame_000151.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id1_id26_0006/frame_000252.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id1_id26_0006/frame_000353.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id1_id26_0006/frame_000454.png"
+          ]
+        },
+        "id20_id0_0001": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id0_0001/frame_000030.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id0_0001/frame_000092.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id0_0001/frame_000152.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id0_0001/frame_000214.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id0_0001/frame_000274.png"
+          ]
+        },
+        "id20_id19_0009": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id19_0009/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id19_0009/frame_000100.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id19_0009/frame_000166.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id19_0009/frame_000233.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id19_0009/frame_000300.png"
+          ]
+        },
+        "id20_id28_0008": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id28_0008/frame_000034.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id28_0008/frame_000101.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id28_0008/frame_000168.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id28_0008/frame_000236.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id20_id28_0008/frame_000303.png"
+          ]
+        },
+        "id21_id24_0009": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id24_0009/frame_000032.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id24_0009/frame_000095.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id24_0009/frame_000159.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id24_0009/frame_000223.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id24_0009/frame_000286.png"
+          ]
+        },
+        "id21_id27_0002": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id27_0002/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id27_0002/frame_000100.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id27_0002/frame_000166.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id27_0002/frame_000233.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id21_id27_0002/frame_000300.png"
+          ]
+        },
+        "id22_id20_0002": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id22_id20_0002/frame_000028.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id22_id20_0002/frame_000085.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id22_id20_0002/frame_000141.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id22_id20_0002/frame_000197.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id22_id20_0002/frame_000254.png"
+          ]
+        },
+        "id23_id0_0004": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id0_0004/frame_000031.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id0_0004/frame_000092.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id0_0004/frame_000153.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id0_0004/frame_000214.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id0_0004/frame_000275.png"
+          ]
+        },
+        "id23_id24_0000": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id24_0000/frame_000032.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id24_0000/frame_000095.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id24_0000/frame_000158.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id24_0000/frame_000222.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id24_0000/frame_000285.png"
+          ]
+        },
+        "id23_id27_0006": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id27_0006/frame_000031.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id27_0006/frame_000094.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id27_0006/frame_000156.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id27_0006/frame_000219.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id23_id27_0006/frame_000282.png"
+          ]
+        },
+        "id24_id22_0005": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id24_id22_0005/frame_000034.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id24_id22_0005/frame_000101.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id24_id22_0005/frame_000168.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id24_id22_0005/frame_000235.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id24_id22_0005/frame_000302.png"
+          ]
+        },
+        "id26_id37_0009": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id26_id37_0009/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id26_id37_0009/frame_000100.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id26_id37_0009/frame_000166.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id26_id37_0009/frame_000233.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id26_id37_0009/frame_000300.png"
+          ]
+        },
+        "id27_id23_0001": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id27_id23_0001/frame_000029.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id27_id23_0001/frame_000086.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id27_id23_0001/frame_000144.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id27_id23_0001/frame_000201.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id27_id23_0001/frame_000258.png"
+          ]
+        },
+        "id28_id1_0008": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id1_0008/frame_000034.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id1_0008/frame_000102.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id1_0008/frame_000170.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id1_0008/frame_000239.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id1_0008/frame_000307.png"
+          ]
+        },
+        "id28_id31_0008": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id31_0008/frame_000034.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id31_0008/frame_000102.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id31_0008/frame_000170.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id31_0008/frame_000239.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id31_0008/frame_000307.png"
+          ]
+        },
+        "id28_id3_0009": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id3_0009/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id3_0009/frame_000099.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id3_0009/frame_000165.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id3_0009/frame_000231.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id28_id3_0009/frame_000297.png"
+          ]
+        },
+        "id29_id20_0008": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id29_id20_0008/frame_000045.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id29_id20_0008/frame_000135.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id29_id20_0008/frame_000224.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id29_id20_0008/frame_000314.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id29_id20_0008/frame_000404.png"
+          ]
+        },
+        "id2_id20_0006": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id2_id20_0006/frame_000038.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id2_id20_0006/frame_000114.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id2_id20_0006/frame_000190.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id2_id20_0006/frame_000265.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id2_id20_0006/frame_000341.png"
+          ]
+        },
+        "id30_id16_0005": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id16_0005/frame_000045.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id16_0005/frame_000134.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id16_0005/frame_000224.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id16_0005/frame_000313.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id16_0005/frame_000402.png"
+          ]
+        },
+        "id30_id4_0009": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id4_0009/frame_000048.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id4_0009/frame_000143.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id4_0009/frame_000239.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id4_0009/frame_000335.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id30_id4_0009/frame_000430.png"
+          ]
+        },
+        "id31_id20_0002": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id20_0002/frame_000048.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id20_0002/frame_000145.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id20_0002/frame_000242.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id20_0002/frame_000339.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id20_0002/frame_000436.png"
+          ]
+        },
+        "id31_id30_0009": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id30_0009/frame_000047.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id30_0009/frame_000142.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id30_0009/frame_000237.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id30_0009/frame_000332.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id30_0009/frame_000427.png"
+          ]
+        },
+        "id31_id35_0002": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0002/frame_000048.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0002/frame_000145.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0002/frame_000242.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0002/frame_000339.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0002/frame_000436.png"
+          ]
+        },
+        "id31_id35_0005": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0005/frame_000035.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0005/frame_000104.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0005/frame_000174.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0005/frame_000244.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id31_id35_0005/frame_000313.png"
+          ]
+        },
+        "id32_id20_0007": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id32_id20_0007/frame_000046.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id32_id20_0007/frame_000137.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id32_id20_0007/frame_000228.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id32_id20_0007/frame_000319.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id32_id20_0007/frame_000410.png"
+          ]
+        },
+        "id35_id32_0006": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id32_0006/frame_000023.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id32_0006/frame_000068.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id32_0006/frame_000114.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id32_0006/frame_000159.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id32_0006/frame_000204.png"
+          ]
+        },
+        "id35_id4_0001": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0001/frame_000051.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0001/frame_000152.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0001/frame_000254.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0001/frame_000355.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0001/frame_000456.png"
+          ]
+        },
+        "id35_id4_0002": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0002/frame_000038.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0002/frame_000114.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0002/frame_000190.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0002/frame_000265.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id4_0002/frame_000341.png"
+          ]
+        },
+        "id35_id6_0009": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id6_0009/frame_000032.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id6_0009/frame_000096.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id6_0009/frame_000160.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id6_0009/frame_000224.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id35_id6_0009/frame_000288.png"
+          ]
+        },
+        "id37_id16_0000": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id37_id16_0000/frame_000050.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id37_id16_0000/frame_000150.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id37_id16_0000/frame_000250.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id37_id16_0000/frame_000351.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id37_id16_0000/frame_000451.png"
+          ]
+        },
+        "id39_id40_0007": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id39_id40_0007/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id39_id40_0007/frame_000100.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id39_id40_0007/frame_000166.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id39_id40_0007/frame_000233.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id39_id40_0007/frame_000300.png"
+          ]
+        },
+        "id3_id6_0007": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id3_id6_0007/frame_000036.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id3_id6_0007/frame_000108.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id3_id6_0007/frame_000180.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id3_id6_0007/frame_000252.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id3_id6_0007/frame_000324.png"
+          ]
+        },
+        "id42_id39_0003": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id42_id39_0003/frame_000031.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id42_id39_0003/frame_000093.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id42_id39_0003/frame_000154.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id42_id39_0003/frame_000216.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id42_id39_0003/frame_000278.png"
+          ]
+        },
+        "id43_id40_0005": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id40_0005/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id40_0005/frame_000100.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id40_0005/frame_000166.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id40_0005/frame_000232.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id40_0005/frame_000299.png"
+          ]
+        },
+        "id43_id48_0000": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id48_0000/frame_000032.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id48_0000/frame_000095.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id48_0000/frame_000159.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id48_0000/frame_000223.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id43_id48_0000/frame_000286.png"
+          ]
+        },
+        "id46_id44_0003": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id46_id44_0003/frame_000029.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id46_id44_0003/frame_000087.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id46_id44_0003/frame_000145.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id46_id44_0003/frame_000203.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id46_id44_0003/frame_000261.png"
+          ]
+        },
+        "id47_id45_0006": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id47_id45_0006/frame_000033.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id47_id45_0006/frame_000100.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id47_id45_0006/frame_000166.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id47_id45_0006/frame_000233.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id47_id45_0006/frame_000300.png"
+          ]
+        },
+        "id50_id57_0005": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id50_id57_0005/frame_000049.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id50_id57_0005/frame_000146.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id50_id57_0005/frame_000244.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id50_id57_0005/frame_000342.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id50_id57_0005/frame_000439.png"
+          ]
+        },
+        "id59_id5_0004": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id59_id5_0004/frame_000038.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id59_id5_0004/frame_000114.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id59_id5_0004/frame_000190.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id59_id5_0004/frame_000265.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id59_id5_0004/frame_000341.png"
+          ]
+        },
+        "id5_id59_0003": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0003/frame_000050.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0003/frame_000149.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0003/frame_000248.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0003/frame_000347.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0003/frame_000446.png"
+          ]
+        },
+        "id5_id59_0008": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0008/frame_000058.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0008/frame_000175.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0008/frame_000292.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0008/frame_000408.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id5_id59_0008/frame_000525.png"
+          ]
+        },
+        "id6_id16_0002": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id16_0002/frame_000061.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id16_0002/frame_000183.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id16_0002/frame_000305.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id16_0002/frame_000427.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id16_0002/frame_000549.png"
+          ]
+        },
+        "id6_id2_0002": {
+          "label": "fake",
+          "frames": [
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id2_0002/frame_000061.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id2_0002/frame_000183.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id2_0002/frame_000305.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id2_0002/frame_000427.png",
+            "data/benchmark_inputs/multifactor__vivo-v21__aoc__angle-0__occupancy-30/fake/id6_id2_0002/frame_000549.png"
+          ]
+        }
+      }
+    }
+  }
+}

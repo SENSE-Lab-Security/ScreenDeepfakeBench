@@ -1,0 +1,620 @@
+{
+  "controlled_distance__vivo-v21__seewo__140cm": {
+    "frame_auc": 0.9757,
+    "frame_acc": 0.918,
+    "video_auc": 0.9864,
+    "video_acc": 0.93
+  },
+  "controlled_distance__vivo-v21__seewo__190cm": {
+    "frame_auc": 0.9758,
+    "frame_acc": 0.904,
+    "video_auc": 0.9832,
+    "video_acc": 0.94
+  },
+  "controlled_distance__vivo-v21__seewo__240cm": {
+    "frame_auc": 0.9774,
+    "frame_acc": 0.902,
+    "video_auc": 0.986,
+    "video_acc": 0.94
+  },
+  "controlled_distance__vivo-v21__seewo__290cm": {
+    "frame_auc": 0.9804,
+    "frame_acc": 0.912,
+    "video_auc": 0.9908,
+    "video_acc": 0.93
+  },
+  "controlled_distance__vivo-v21__seewo__340cm": {
+    "frame_auc": 0.9727,
+    "frame_acc": 0.896,
+    "video_auc": 0.982,
+    "video_acc": 0.92
+  },
+  "controlled_distance__vivo-v21__seewo__390cm": {
+    "frame_auc": 0.9741,
+    "frame_acc": 0.9,
+    "video_auc": 0.9824,
+    "video_acc": 0.94
+  },
+  "controlled_distance__vivo-v21__seewo__440cm": {
+    "frame_auc": 0.973,
+    "frame_acc": 0.892,
+    "video_auc": 0.9872,
+    "video_acc": 0.95
+  },
+  "controlled_distance__vivo-v21__seewo__490cm": {
+    "frame_auc": 0.9604,
+    "frame_acc": 0.872,
+    "video_auc": 0.9776,
+    "video_acc": 0.92
+  },
+  "controlled_light__vivo-v21__seewo__bright": {
+    "frame_auc": 0.9788,
+    "frame_acc": 0.926,
+    "video_auc": 0.9908,
+    "video_acc": 0.96
+  },
+  "controlled_light__vivo-v21__seewo__dark": {
+    "frame_auc": 0.9419,
+    "frame_acc": 0.762,
+    "video_auc": 0.9696,
+    "video_acc": 0.73
+  },
+  "controlled_light__vivo-v21__seewo__normal": {
+    "frame_auc": 0.9774,
+    "frame_acc": 0.902,
+    "video_auc": 0.986,
+    "video_acc": 0.94
+  },
+  "multifactor__meta-wayfarer__maxhub-55__natural": {
+    "frame_auc": 0.9931,
+    "frame_acc": 0.962,
+    "video_auc": 0.9992,
+    "video_acc": 0.98
+  },
+  "multifactor__meta-wayfarer__seewo__natural": {
+    "frame_auc": 0.9644,
+    "frame_acc": 0.894,
+    "video_auc": 0.9756,
+    "video_acc": 0.92
+  },
+  "multifactor__meta-wayfarer__starzen__natural": {
+    "frame_auc": 0.933,
+    "frame_acc": 0.862,
+    "video_auc": 0.9644,
+    "video_acc": 0.9
+  },
+  "multifactor__meta-wayfarer__aoc__natural": {
+    "frame_auc": 0.9798,
+    "frame_acc": 0.932,
+    "video_auc": 0.9912,
+    "video_acc": 0.94
+  },
+  "multifactor__meta-wayfarer__maxhub-86__natural": {
+    "frame_auc": 0.9556,
+    "frame_acc": 0.874,
+    "video_auc": 0.9764,
+    "video_acc": 0.93
+  },
+  "multifactor__meta-wayfarer__redmi__natural": {
+    "frame_auc": 0.985,
+    "frame_acc": 0.934,
+    "video_auc": 0.996,
+    "video_acc": 0.95
+  },
+  "multifactor__rokid-glasses__maxhub-55__natural": {
+    "frame_auc": 0.9788,
+    "frame_acc": 0.83,
+    "video_auc": 0.9884,
+    "video_acc": 0.85
+  },
+  "multifactor__rokid-glasses__seewo__natural": {
+    "frame_auc": 0.9611,
+    "frame_acc": 0.888,
+    "video_auc": 0.9752,
+    "video_acc": 0.9
+  },
+  "multifactor__rokid-glasses__aoc__natural": {
+    "frame_auc": 0.9878,
+    "frame_acc": 0.94,
+    "video_auc": 0.9996,
+    "video_acc": 0.97
+  },
+  "multifactor__rokid-glasses__maxhub-86__natural": {
+    "frame_auc": 0.9721,
+    "frame_acc": 0.896,
+    "video_auc": 0.9908,
+    "video_acc": 0.94
+  },
+  "multifactor__rokid-glasses__redmi__natural": {
+    "frame_auc": 0.9698,
+    "frame_acc": 0.832,
+    "video_auc": 0.9892,
+    "video_acc": 0.84
+  },
+  "multifactor__rokid-glasses__starzen__natural": {
+    "frame_auc": 0.9538,
+    "frame_acc": 0.856,
+    "video_auc": 0.9744,
+    "video_acc": 0.86
+  },
+  "multifactor__iphone-17-pro__maxhub-55__angle-45__occupancy-15": {
+    "frame_auc": 0.9752,
+    "frame_acc": 0.91,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__maxhub-55__angle-0__occupancy-30": {
+    "frame_auc": 0.9804,
+    "frame_acc": 0.93,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__maxhub-55__angle-45__occupancy-30": {
+    "frame_auc": 0.9592,
+    "frame_acc": 0.86,
+    "video_auc": 0.98,
+    "video_acc": 0.85
+  },
+  "multifactor__iphone-17-pro__maxhub-55__angle-45__occupancy-45": {
+    "frame_auc": 0.9692,
+    "frame_acc": 0.9,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__maxhub-55__angle-0__occupancy-60": {
+    "frame_auc": 0.9892,
+    "frame_acc": 0.92,
+    "video_auc": 1.0,
+    "video_acc": 0.9
+  },
+  "multifactor__iphone-17-pro__maxhub-55__angle-0__occupancy-90": {
+    "frame_auc": 0.9912,
+    "frame_acc": 0.94,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__iphone-17-pro__maxhub-86__angle-45__occupancy-15": {
+    "frame_auc": 0.9128,
+    "frame_acc": 0.82,
+    "video_auc": 0.94,
+    "video_acc": 0.85
+  },
+  "multifactor__iphone-17-pro__maxhub-86__angle-0__occupancy-30": {
+    "frame_auc": 0.998,
+    "frame_acc": 0.94,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__maxhub-86__angle-45__occupancy-30": {
+    "frame_auc": 0.9492,
+    "frame_acc": 0.83,
+    "video_auc": 0.98,
+    "video_acc": 0.9
+  },
+  "multifactor__iphone-17-pro__maxhub-86__angle-45__occupancy-45": {
+    "frame_auc": 0.8948,
+    "frame_acc": 0.78,
+    "video_auc": 0.93,
+    "video_acc": 0.75
+  },
+  "multifactor__iphone-17-pro__maxhub-86__angle-0__occupancy-60": {
+    "frame_auc": 0.9984,
+    "frame_acc": 0.95,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__iphone-17-pro__maxhub-86__angle-0__occupancy-90": {
+    "frame_auc": 0.9932,
+    "frame_acc": 0.92,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__starzen__angle-45__occupancy-15": {
+    "frame_auc": 0.8604,
+    "frame_acc": 0.79,
+    "video_auc": 0.9,
+    "video_acc": 0.85
+  },
+  "multifactor__iphone-17-pro__starzen__angle-0__occupancy-30": {
+    "frame_auc": 0.946,
+    "frame_acc": 0.86,
+    "video_auc": 0.95,
+    "video_acc": 0.85
+  },
+  "multifactor__iphone-17-pro__starzen__angle-45__occupancy-30": {
+    "frame_auc": 0.898,
+    "frame_acc": 0.89,
+    "video_auc": 0.93,
+    "video_acc": 0.9
+  },
+  "multifactor__iphone-17-pro__starzen__angle-45__occupancy-45": {
+    "frame_auc": 0.8724,
+    "frame_acc": 0.83,
+    "video_auc": 0.9,
+    "video_acc": 0.85
+  },
+  "multifactor__iphone-17-pro__starzen__angle-0__occupancy-60": {
+    "frame_auc": 0.9424,
+    "frame_acc": 0.74,
+    "video_auc": 1.0,
+    "video_acc": 0.8
+  },
+  "multifactor__iphone-17-pro__starzen__angle-0__occupancy-90": {
+    "frame_auc": 0.9644,
+    "frame_acc": 0.73,
+    "video_auc": 1.0,
+    "video_acc": 0.7
+  },
+  "multifactor__iphone-17-pro__seewo__angle-45__occupancy-15": {
+    "frame_auc": 0.9784,
+    "frame_acc": 0.92,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__seewo__angle-0__occupancy-30": {
+    "frame_auc": 0.9836,
+    "frame_acc": 0.92,
+    "video_auc": 0.99,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__seewo__angle-45__occupancy-30": {
+    "frame_auc": 0.966,
+    "frame_acc": 0.89,
+    "video_auc": 0.98,
+    "video_acc": 0.9
+  },
+  "multifactor__iphone-17-pro__seewo__angle-45__occupancy-45": {
+    "frame_auc": 0.9772,
+    "frame_acc": 0.91,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__seewo__angle-0__occupancy-60": {
+    "frame_auc": 0.9904,
+    "frame_acc": 0.93,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__seewo__angle-0__occupancy-90": {
+    "frame_auc": 0.9872,
+    "frame_acc": 0.94,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__aoc__angle-45__occupancy-15": {
+    "frame_auc": 0.9968,
+    "frame_acc": 0.94,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__iphone-17-pro__aoc__angle-0__occupancy-30": {
+    "frame_auc": 0.9988,
+    "frame_acc": 0.97,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__iphone-17-pro__aoc__angle-45__occupancy-30": {
+    "frame_auc": 0.998,
+    "frame_acc": 0.98,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__iphone-17-pro__aoc__angle-45__occupancy-45": {
+    "frame_auc": 0.986,
+    "frame_acc": 0.95,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__iphone-17-pro__aoc__angle-0__occupancy-60": {
+    "frame_auc": 0.9764,
+    "frame_acc": 0.85,
+    "video_auc": 1.0,
+    "video_acc": 0.85
+  },
+  "multifactor__iphone-17-pro__aoc__angle-0__occupancy-90": {
+    "frame_auc": 0.99,
+    "frame_acc": 0.92,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__iphone-17-pro__redmi__angle-45__occupancy-15": {
+    "frame_auc": 0.9895,
+    "frame_acc": 0.942,
+    "video_auc": 0.9908,
+    "video_acc": 0.98
+  },
+  "multifactor__iphone-17-pro__redmi__angle-0__occupancy-30": {
+    "frame_auc": 0.9915,
+    "frame_acc": 0.954,
+    "video_auc": 0.9964,
+    "video_acc": 0.99
+  },
+  "multifactor__iphone-17-pro__redmi__angle-45__occupancy-30": {
+    "frame_auc": 0.9812,
+    "frame_acc": 0.934,
+    "video_auc": 0.994,
+    "video_acc": 0.94
+  },
+  "multifactor__iphone-17-pro__redmi__angle-45__occupancy-45": {
+    "frame_auc": 0.9892,
+    "frame_acc": 0.95,
+    "video_auc": 0.996,
+    "video_acc": 0.97
+  },
+  "multifactor__iphone-17-pro__redmi__angle-0__occupancy-60": {
+    "frame_auc": 0.9684,
+    "frame_acc": 0.878,
+    "video_auc": 0.9844,
+    "video_acc": 0.88
+  },
+  "multifactor__iphone-17-pro__redmi__angle-0__occupancy-90": {
+    "frame_auc": 0.9906,
+    "frame_acc": 0.942,
+    "video_auc": 0.996,
+    "video_acc": 0.97
+  },
+  "multifactor__vivo-v21__maxhub-55__angle-45__occupancy-15": {
+    "frame_auc": 0.99,
+    "frame_acc": 0.95,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__maxhub-55__angle-0__occupancy-30": {
+    "frame_auc": 0.992,
+    "frame_acc": 0.95,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__maxhub-55__angle-45__occupancy-30": {
+    "frame_auc": 0.9904,
+    "frame_acc": 0.96,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__maxhub-55__angle-45__occupancy-45": {
+    "frame_auc": 0.9704,
+    "frame_acc": 0.91,
+    "video_auc": 0.98,
+    "video_acc": 0.9
+  },
+  "multifactor__vivo-v21__maxhub-55__angle-0__occupancy-60": {
+    "frame_auc": 0.9936,
+    "frame_acc": 0.94,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__vivo-v21__maxhub-55__angle-0__occupancy-90": {
+    "frame_auc": 0.986,
+    "frame_acc": 0.95,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__maxhub-86__angle-45__occupancy-15": {
+    "frame_auc": 0.942,
+    "frame_acc": 0.89,
+    "video_auc": 0.98,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__maxhub-86__angle-0__occupancy-30": {
+    "frame_auc": 1.0,
+    "frame_acc": 1.0,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__vivo-v21__maxhub-86__angle-45__occupancy-30": {
+    "frame_auc": 0.8824,
+    "frame_acc": 0.8,
+    "video_auc": 0.93,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__maxhub-86__angle-45__occupancy-45": {
+    "frame_auc": 0.8832,
+    "frame_acc": 0.8,
+    "video_auc": 0.91,
+    "video_acc": 0.85
+  },
+  "multifactor__vivo-v21__maxhub-86__angle-0__occupancy-60": {
+    "frame_auc": 1.0,
+    "frame_acc": 1.0,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__vivo-v21__maxhub-86__angle-0__occupancy-90": {
+    "frame_auc": 0.9996,
+    "frame_acc": 0.99,
+    "video_auc": 1.0,
+    "video_acc": 1.0
+  },
+  "multifactor__vivo-v21__starzen__angle-45__occupancy-15": {
+    "frame_auc": 0.8708,
+    "frame_acc": 0.81,
+    "video_auc": 0.96,
+    "video_acc": 0.85
+  },
+  "multifactor__vivo-v21__starzen__angle-0__occupancy-30": {
+    "frame_auc": 0.9812,
+    "frame_acc": 0.85,
+    "video_auc": 1.0,
+    "video_acc": 0.85
+  },
+  "multifactor__vivo-v21__starzen__angle-45__occupancy-30": {
+    "frame_auc": 0.8844,
+    "frame_acc": 0.74,
+    "video_auc": 0.89,
+    "video_acc": 0.75
+  },
+  "multifactor__vivo-v21__starzen__angle-45__occupancy-45": {
+    "frame_auc": 0.7752,
+    "frame_acc": 0.73,
+    "video_auc": 0.82,
+    "video_acc": 0.7
+  },
+  "multifactor__vivo-v21__starzen__angle-0__occupancy-60": {
+    "frame_auc": 0.9628,
+    "frame_acc": 0.87,
+    "video_auc": 1.0,
+    "video_acc": 0.9
+  },
+  "multifactor__vivo-v21__starzen__angle-0__occupancy-90": {
+    "frame_auc": 0.958,
+    "frame_acc": 0.81,
+    "video_auc": 1.0,
+    "video_acc": 0.85
+  },
+  "multifactor__vivo-v21__seewo__angle-45__occupancy-15": {
+    "frame_auc": 0.942,
+    "frame_acc": 0.92,
+    "video_auc": 0.94,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__seewo__angle-0__occupancy-30": {
+    "frame_auc": 0.9872,
+    "frame_acc": 0.94,
+    "video_auc": 0.99,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__seewo__angle-45__occupancy-30": {
+    "frame_auc": 0.9452,
+    "frame_acc": 0.93,
+    "video_auc": 0.94,
+    "video_acc": 0.9
+  },
+  "multifactor__vivo-v21__seewo__angle-45__occupancy-45": {
+    "frame_auc": 0.9608,
+    "frame_acc": 0.88,
+    "video_auc": 0.97,
+    "video_acc": 0.9
+  },
+  "multifactor__vivo-v21__seewo__angle-0__occupancy-60": {
+    "frame_auc": 0.982,
+    "frame_acc": 0.93,
+    "video_auc": 0.99,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__seewo__angle-0__occupancy-90": {
+    "frame_auc": 0.9864,
+    "frame_acc": 0.95,
+    "video_auc": 1.0,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__aoc__angle-45__occupancy-15": {
+    "frame_auc": 0.9469,
+    "frame_acc": 0.874,
+    "video_auc": 0.9688,
+    "video_acc": 0.92
+  },
+  "multifactor__vivo-v21__aoc__angle-0__occupancy-30": {
+    "frame_auc": 0.9913,
+    "frame_acc": 0.93,
+    "video_auc": 0.9984,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__aoc__angle-45__occupancy-30": {
+    "frame_auc": 0.9386,
+    "frame_acc": 0.854,
+    "video_auc": 0.9604,
+    "video_acc": 0.88
+  },
+  "multifactor__vivo-v21__aoc__angle-45__occupancy-45": {
+    "frame_auc": 0.9665,
+    "frame_acc": 0.892,
+    "video_auc": 0.9804,
+    "video_acc": 0.92
+  },
+  "multifactor__vivo-v21__aoc__angle-0__occupancy-60": {
+    "frame_auc": 0.9545,
+    "frame_acc": 0.862,
+    "video_auc": 0.958,
+    "video_acc": 0.9
+  },
+  "multifactor__vivo-v21__aoc__angle-0__occupancy-90": {
+    "frame_auc": 0.9706,
+    "frame_acc": 0.878,
+    "video_auc": 0.98,
+    "video_acc": 0.9
+  },
+  "multifactor__vivo-v21__redmi__angle-45__occupancy-15": {
+    "frame_auc": 0.9772,
+    "frame_acc": 0.92,
+    "video_auc": 0.99,
+    "video_acc": 0.96
+  },
+  "multifactor__vivo-v21__redmi__angle-0__occupancy-30": {
+    "frame_auc": 0.991,
+    "frame_acc": 0.944,
+    "video_auc": 0.9956,
+    "video_acc": 0.95
+  },
+  "multifactor__vivo-v21__redmi__angle-45__occupancy-30": {
+    "frame_auc": 0.9719,
+    "frame_acc": 0.906,
+    "video_auc": 0.9764,
+    "video_acc": 0.93
+  },
+  "multifactor__vivo-v21__redmi__angle-45__occupancy-45": {
+    "frame_auc": 0.9811,
+    "frame_acc": 0.924,
+    "video_auc": 0.9924,
+    "video_acc": 0.96
+  },
+  "multifactor__vivo-v21__redmi__angle-0__occupancy-60": {
+    "frame_auc": 0.9922,
+    "frame_acc": 0.936,
+    "video_auc": 0.9964,
+    "video_acc": 0.96
+  },
+  "multifactor__vivo-v21__redmi__angle-0__occupancy-90": {
+    "frame_auc": 0.9967,
+    "frame_acc": 0.966,
+    "video_auc": 0.998,
+    "video_acc": 0.97
+  },
+  "controlled_angle__vivo-v21__seewo__h15-v0": {
+    "frame_auc": 0.977,
+    "frame_acc": 0.898,
+    "video_auc": 0.9856,
+    "video_acc": 0.93
+  },
+  "controlled_angle__vivo-v21__seewo__h0-v15": {
+    "frame_auc": 0.9791,
+    "frame_acc": 0.882,
+    "video_auc": 0.9896,
+    "video_acc": 0.91
+  },
+  "controlled_angle__vivo-v21__seewo__h30-v0": {
+    "frame_auc": 0.9818,
+    "frame_acc": 0.912,
+    "video_auc": 0.984,
+    "video_acc": 0.94
+  },
+  "controlled_angle__vivo-v21__seewo__h30-v30": {
+    "frame_auc": 0.9755,
+    "frame_acc": 0.874,
+    "video_auc": 0.9828,
+    "video_acc": 0.9
+  },
+  "controlled_angle__vivo-v21__seewo__h0-v30": {
+    "frame_auc": 0.9735,
+    "frame_acc": 0.886,
+    "video_auc": 0.984,
+    "video_acc": 0.92
+  },
+  "controlled_angle__vivo-v21__seewo__h45-v0": {
+    "frame_auc": 0.9645,
+    "frame_acc": 0.896,
+    "video_auc": 0.9816,
+    "video_acc": 0.91
+  },
+  "controlled_angle__vivo-v21__seewo__h0-v45": {
+    "frame_auc": 0.9756,
+    "frame_acc": 0.9,
+    "video_auc": 0.986,
+    "video_acc": 0.93
+  },
+  "controlled_moire__vivo-v21__redmi__induced": {
+    "frame_auc": 0.9119,
+    "frame_acc": 0.764,
+    "video_auc": 0.9476,
+    "video_acc": 0.79
+  }
+}

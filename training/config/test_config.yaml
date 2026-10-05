@@ -1,0 +1,7 @@
+mode: test
+lmdb: false
+rgb_dir: data
+dataset_json_folder: outputs/indexes
+label_dict:
+  real: 0
+  fake: 1

@@ -1,0 +1,4 @@
+# Optional: only needed to prepare training faces from original videos.
+-r requirements.txt
+dlib==19.24.2
+imutils==0.5.4

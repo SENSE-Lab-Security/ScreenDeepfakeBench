@@ -1,7 +1,12 @@
 # Training and Fine-Tuning
 
-`scripts/train.py` starts from ImageNet Xception initialization. The original
-inclusive epoch loop has indices 0-10 for `--epochs 11`. It uses the original
+First [prepare the indexed training images](PREPROCESSING.md) from Celeb-DF-v2.
+The training-support ZIP provides the fixed index and digital controls, not
+the full training image collection. Evaluation of the paper weights does not
+require this preprocessing step.
+
+`scripts/train.py` starts from ImageNet Xception initialization. The
+inclusive epoch loop has indices 0-10 for `--epochs 11`. It uses the paper's
 optimizer, class-weighted sampling and detector-specific augmentation settings.
 
 `scripts/fine_tune.py` starts from the named released detector checkpoint,
@@ -10,16 +15,16 @@ It is not a resume command for an interrupted optimizer state. Pass
 `--init-checkpoint path/to/model.pth` to start from another compatible detector.
 
 The training loop validates on the two digital sets and retains the checkpoint
-with the highest equal-weight mean AUC. D2 is a subset of D1. This preserves the
-paper recipe, not a recommended independent validation split for every new study.
-The recaptured benchmark is never automatically used for training-time selection.
+with the highest equal-weight mean AUC. D2 is a subset of D1, following the
+paper's validation recipe. Use independently defined development and held-out
+sets for new studies. The recaptured benchmark is reserved for evaluation.
 
 ## Checkpoints and Evaluation
 
 The model output directory contains timestamped training logs and
 `test/avg/ckpt_best.pth`; per-digital-set best checkpoints are also retained.
 The terminal log prints the exact saved path. Evaluate the average-best weight
-explicitly, rather than accidentally evaluating the bundled paper weight:
+with `--weights`:
 
 ```bash
 python scripts/evaluate.py --model coc --data-root data/CoC_Dataset_zenodo \
@@ -31,10 +36,10 @@ python scripts/evaluate.py --model coc --data-root data/CoC_Dataset_zenodo \
 
 Add `--deterministic --seed 1024` to train or fine-tune. This explicitly controls
 the sampler, data-loader and augmentation-worker streams and requests deterministic
-GPU algorithms. It may be slower, and unsupported deterministic operations fail
-instead of silently changing mode. Keep library versions and hardware fixed when
-comparing runs. This does not recover the historical paper run's random state or
-guarantee identical accuracy from retraining.
+GPU algorithms. Unsupported deterministic operations raise an error. Keep the
+seed, library versions and hardware fixed when comparing runs; training results
+can vary with these settings. Use the released checkpoints for the paper's
+reported evaluation results.
 
 ## Custom Data
 

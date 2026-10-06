@@ -100,6 +100,7 @@ class ReleaseTests(unittest.TestCase):
     def test_command_help(self):
         for command in [
             "prepare_data",
+            "prepare_training_data",
             "evaluate",
             "train",
             "fine_tune",

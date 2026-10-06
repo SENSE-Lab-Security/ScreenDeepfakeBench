@@ -56,15 +56,22 @@ torchvision versions instead. Run the commands below from the repository root.
 ## Downloads
 
 Download the files from the [Zenodo resource page](https://doi.org/10.5281/zenodo.21790607).
-The current public [detector-input dataset](https://zenodo.org/records/23149435)
+The current public [detector-input dataset](https://zenodo.org/records/23150212)
 contains `CoC_Dataset_zenodo.zip`.
 
 | File | Needed for |
 | --- | --- |
 | `CoC_Dataset_zenodo.zip` | Recaptured benchmark evaluation |
 | `ScreenDeepfakeBench_models.zip` | Four paper checkpoints and ImageNet initialization |
-| `Celeb-DF-v2-clean.zip` | Training and fine-tuning images |
 | `ScreenDeepfakeBench_training_support.zip` | Training index and digital validation inputs/indexes |
+
+The preprocessed training-image archive is approximately **12.15 GB** and is not
+hosted on Zenodo due to its size. To request these prepared training images,
+please contact **Shuhao Zhang** at [szhang515@connect.hkust-gz.edu.cn](mailto:szhang515@connect.hkust-gz.edu.cn).
+Alternatively, prepare the images locally from Celeb-DF-v2 using the released
+training index and the DeepfakeBench dlib preprocessing pipeline. See
+[training data preparation](docs/PREPROCESSING.md). This does not affect access
+to the released recaptured benchmark images or paper checkpoints.
 
 ```bash
 unzip ScreenDeepfakeBench_models.zip -d .
@@ -118,8 +125,7 @@ the 84 multi-factor configurations. Digital controls are excluded from these
 recaptured headline metrics.
 
 The summary command also reports per-camera and per-display averages over the
-multi-factor configurations. It flags incomplete groups instead of presenting
-partial runs as full benchmark results.
+multi-factor configurations and identifies incomplete evaluation groups.
 
 `reference_results/` contains the per-configuration paper reference values under
 the public configuration names. The release focuses on the three baseline
@@ -132,12 +138,19 @@ Prepare the additional resources:
 
 ```bash
 unzip ScreenDeepfakeBench_training_support.zip -d data
-unzip Celeb-DF-v2-clean.zip -d data/training_data
-python scripts/check_resources.py --training-root data/training_data
+python scripts/prepare_training_data.py --mode audit
 ```
 
-The digital controls can be evaluated separately; they are never included by
-`--group all`:
+The fixed `celebdf_train.json` selects **6,427 videos and 204,769 face images**.
+Obtain the original videos from the [Celeb-DF authors](https://github.com/yuezunli/celeb-deepfakeforensics),
+then follow [the preprocessing instructions](docs/PREPROCESSING.md) to create
+`data/training_data/Celeb-DF-v2-clean/`. Alternatively, select the indexed images
+from an existing DeepfakeBench-preprocessed Celeb-DF-v2 directory. Use the supplied
+index for the paper's training selection.
+After preparation, run `python scripts/check_resources.py --training-root data/training_data`.
+
+Evaluate the digital controls separately with `--group digital`;
+`--group all` evaluates the recaptured configurations:
 
 ```bash
 python scripts/evaluate.py --model all --group digital \
@@ -160,11 +173,9 @@ python scripts/train.py --model coc --data-root data/training_data \
 ```
 
 Both commands also accept `--model xception`, `--model ffd` and `--model spsl`.
-Training and fine-tuning are separate from evaluating the released paper weights;
-their results depend on initialization, random sampling and the environment.
 See [training details](docs/TRAINING.md) for selection, custom splits, deterministic
-execution, and evaluating a new checkpoint. Do not fine-tune or select models on
-the full recaptured benchmark and then report it as a held-out test.
+execution, and evaluating a new checkpoint. For new defenses, keep development
+data separate from the final held-out evaluation set.
 
 ## Code and License
 

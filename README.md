@@ -23,6 +23,17 @@ augmentation. It does not require physically recaptured training images. This
 repository includes the original Xception, FFD and SPSL detectors, the CoC
 pipeline, and commands for evaluation, training and fine-tuning.
 
+| Workflow | What you can do |
+| --- | --- |
+| Evaluate | Run four released detectors on all 103 configurations or selected groups; report frame/video ACC and AUC |
+| Analyze | Export per-image scores, labels and paths for success/failure analysis and explainability |
+| Retrain | Train Xception, FFD, SPSL or CoC from ImageNet initialization using the supplied training selection |
+| Fine-tune | Adapt a released checkpoint or a compatible checkpoint of your own |
+| Develop | Modify the detector or augmentation settings and evaluate the new checkpoint with the same protocol |
+
+For a small installation and training-loop check, see the
+[mock-data walkthrough](docs/SMOKE_TEST.md).
+
 ## Dataset
 
 | Property | Coverage |
@@ -44,14 +55,29 @@ Python 3.9 and PyTorch 2.2.2 are the supported baseline. Training requires an
 NVIDIA CUDA GPU; evaluation also supports CPU.
 
 ```bash
+git clone https://github.com/SENSE-Lab-Security/ScreenDeepfakeBench.git
+cd ScreenDeepfakeBench
 conda create -n screenbench python=3.9 -y
 conda activate screenbench
+```
+
+For a Linux CUDA environment:
+
+```bash
 pip install torch==2.2.2 torchvision==0.17.2 --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
 ```
 
-For CPU-only evaluation, install the CPU builds of the same PyTorch and
-torchvision versions instead. Run the commands below from the repository root.
+For CPU-only evaluation on Linux, replace the PyTorch index above with
+`https://download.pytorch.org/whl/cpu`. On macOS, use:
+
+```bash
+pip install torch==2.2.2 torchvision==0.17.2
+pip install -r requirements.txt
+```
+
+Run the commands below from the repository root. Download ZIP files there before
+running the extraction commands, or replace their names with their local paths.
 
 ## Downloads
 
@@ -64,14 +90,15 @@ contains `CoC_Dataset_zenodo.zip`.
 | `CoC_Dataset_zenodo.zip` | Recaptured benchmark evaluation |
 | `ScreenDeepfakeBench_models.zip` | Four paper checkpoints and ImageNet initialization |
 | `ScreenDeepfakeBench_training_support.zip` | Training index and digital validation inputs/indexes |
+| `Celeb-DF-v2-clean_part1.zip` through `Celeb-DF-v2-clean_part4.zip` | Prepared training images; download all four |
 
-The preprocessed training-image archive is approximately **12.15 GB** and is not
-hosted on Zenodo due to its size. To request these prepared training images,
-please contact **Shuhao Zhang** at [szhang515@connect.hkust-gz.edu.cn](mailto:szhang515@connect.hkust-gz.edu.cn).
-Alternatively, prepare the images locally from Celeb-DF-v2 using the released
-training index and the DeepfakeBench dlib preprocessing pipeline. See
-[training data preparation](docs/PREPROCESSING.md). This does not affect access
-to the released recaptured benchmark images or paper checkpoints.
+The prepared training images are available on [Zenodo](https://zenodo.org/records/23150212)
+as four independent ZIP archives, approximately **3.03 GB each (12.14 GB total)**.
+Extract all four into the same directory as shown below; do not concatenate them.
+Training data is needed only for training and fine-tuning, not for evaluating the
+released paper checkpoints. The [preprocessing workflow](docs/PREPROCESSING.md)
+remains available for users preparing the indexed selection from original videos
+or existing DeepfakeBench-preprocessed images.
 
 ```bash
 unzip ScreenDeepfakeBench_models.zip -d .
@@ -134,20 +161,39 @@ composition searches and exploratory frequency variants are not included.
 
 ## Training and Fine-Tuning
 
-Prepare the additional resources:
+Download the training-support ZIP and all four training-image ZIPs from Zenodo.
+From the repository root, extract and check them:
 
 ```bash
 unzip ScreenDeepfakeBench_training_support.zip -d data
-python scripts/prepare_training_data.py --mode audit
+unzip Celeb-DF-v2-clean_part1.zip -d data/training_data
+unzip Celeb-DF-v2-clean_part2.zip -d data/training_data
+unzip Celeb-DF-v2-clean_part3.zip -d data/training_data
+unzip Celeb-DF-v2-clean_part4.zip -d data/training_data
+python scripts/prepare_training_data.py --mode verify --workers 4
+python scripts/check_resources.py --training-root data/training_data
 ```
 
 The fixed `celebdf_train.json` selects **6,427 videos and 204,769 face images**.
-Obtain the original videos from the [Celeb-DF authors](https://github.com/yuezunli/celeb-deepfakeforensics),
-then follow [the preprocessing instructions](docs/PREPROCESSING.md) to create
-`data/training_data/Celeb-DF-v2-clean/`. Alternatively, select the indexed images
-from an existing DeepfakeBench-preprocessed Celeb-DF-v2 directory. Use the supplied
-index for the paper's training selection.
-After preparation, run `python scripts/check_resources.py --training-root data/training_data`.
+These four archives together contain the digital-domain training set used for
+CoC in the paper, and provide the data for training or fine-tuning the released
+detectors. CoC applies its channel-aware augmentations to these images during
+training; the recaptured benchmark images are not training inputs.
+
+| Source | Label | Videos | Images |
+| --- | --- | ---: | ---: |
+| Celeb-real | Real | 555 | 17,609 |
+| YouTube-real | Real | 283 | 8,983 |
+| Celeb-synthesis | Fake | 5,589 | 178,177 |
+| Total | | 6,427 | 204,769 |
+
+The four ZIPs partition this one training set by file size, not by capture
+device, experimental condition, or train/validation split. Each contains all
+three source categories. See [per-archive counts](docs/DATA.md#training-archives).
+
+The downloaded images are ready to use under `data/training_data/Celeb-DF-v2-clean/`;
+no video decoding or face cropping is required. To prepare the images yourself,
+follow the optional [preprocessing instructions](docs/PREPROCESSING.md).
 
 Evaluate the digital controls separately with `--group digital`;
 `--group all` evaluates the recaptured configurations:

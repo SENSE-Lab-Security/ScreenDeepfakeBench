@@ -2,11 +2,14 @@
 
 The paper's training selection is supplied in
 `ScreenDeepfakeBench_training_support.zip`, under
-`training_data/indexes/celebdf_train.json`. The preprocessed training-image archive
-is approximately **12.15 GB** and is not hosted on Zenodo due to its size.
-To request these prepared training images, contact **Shuhao Zhang** at
-[szhang515@connect.hkust-gz.edu.cn](mailto:szhang515@connect.hkust-gz.edu.cn).
-Alternatively, prepare the same indexed selection locally using either workflow below.
+`training_data/indexes/celebdf_train.json`. Prepared training images are available
+on [Zenodo](https://zenodo.org/records/23150212) as
+`Celeb-DF-v2-clean_part1.zip` through `Celeb-DF-v2-clean_part4.zip`.
+[Extract these four archives](../README.md#training-and-fine-tuning) to use the
+supplied training images without repeating preprocessing.
+
+The optional workflows below prepare the same indexed selection from original
+videos or existing DeepfakeBench-preprocessed faces.
 Evaluation of the released paper weights needs only the benchmark inputs and
 model resources, not Celeb-DF training data.
 
@@ -101,6 +104,8 @@ in the preparation report for resolution before training. The training pipeline
 requires face crops; the recaptured evaluation inputs include the full-frame
 fallbacks described in the dataset documentation.
 
+Video-decoding and preprocessing dependency versions can affect the resulting crops.
+
 ## Option B: Existing Preprocessed Faces
 
 If you already have DeepfakeBench's RGB-format Celeb-DF-v2 faces, select the
@@ -136,13 +141,3 @@ and whether the full selection is complete. Limited runs are labelled as smoke
 tests. Re-run the same command to retry missing/invalid
 outputs; valid existing 256x256 images are skipped. Use `--overwrite` when changing
 source data, predictor, or preprocessing environment, or use a new output root.
-
-## Reproducibility Notes
-
-Preprocessing follows the DeepfakeBench dlib pipeline and the released frame
-selection. Reconstructed crops may vary with video decoding and dependency
-versions; pixel-level equivalence to the original prepared images has not been
-established. The original prepared images are available upon request.
-
-For evaluation of the paper checkpoints, use the supplied digital-control and
-recaptured inputs directly.

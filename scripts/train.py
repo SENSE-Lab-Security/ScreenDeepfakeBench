@@ -89,6 +89,10 @@ def main(finetune=False):
         flush=True,
     )
     if not a.dry_run:
+        import torch
+
+        if not torch.cuda.is_available():
+            p.error("Training requires an NVIDIA CUDA GPU. CPU evaluation is supported; see docs/SMOKE_TEST.md.")
         subprocess.run(cmd, cwd=ROOT, env=env, check=True)
 
 

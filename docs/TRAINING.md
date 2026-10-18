@@ -1,9 +1,14 @@
 # Training and Fine-Tuning
 
-First [prepare the indexed training images](PREPROCESSING.md) from Celeb-DF-v2.
-The training-support ZIP provides the fixed index and digital controls, not
-the full training image collection. Evaluation of the paper weights does not
-require this preprocessing step.
+To check the train/save/reload workflow with a small synthetic dataset first,
+see [Small Workflow Check](SMOKE_TEST.md). This does not require the training ZIPs.
+
+First download and extract the training-support ZIP and all four prepared
+training-image ZIPs using the [README commands](../README.md#training-and-fine-tuning).
+The support ZIP provides the fixed index and digital controls; the four image
+ZIPs provide the complete indexed training selection. No preprocessing is needed
+for these images. Alternatively, use the [preprocessing workflow](PREPROCESSING.md)
+to prepare the selection from Celeb-DF-v2 yourself.
 
 `scripts/train.py` starts from ImageNet Xception initialization. The
 inclusive epoch loop has indices 0-10 for `--epochs 11`. It uses the paper's
@@ -61,6 +66,12 @@ convention. Both classes must be represented. The supplied configuration samples
 up to 32 training frames or five validation frames per video; change these only
 as an explicitly different experiment. Videos within each evaluation configuration
 must have a consistent label and distinct parent directories.
+
+For a custom validation index, pass its ID explicitly to the evaluator, for example
+`--index-root path/to/indexes --dataset my_val`. The corresponding JSON must use
+`my_val` as its top-level key and contain `test` entries. Custom results are not
+accepted by `scripts/summarize.py`, which summarizes only the published benchmark
+configurations; inspect their own `metrics.json` instead.
 
 For recaptured-data fine-tuning, define separate development and held-out sets
 with source-content leakage controls. Never select the best epoch or threshold

@@ -53,9 +53,34 @@ The training index selects 204,769 images from 6,427 source videos: 555 Celeb-re
 283 YouTube-real, and 5,589 Celeb-synthesis videos. The training source videos do
 not overlap with D1/D2. The paper uses this fixed video-level selection rather
 than the official Celeb-DF split; identities may appear across sets.
-Prepare the images locally using [the preprocessing workflow](PREPROCESSING.md).
+Download all four `Celeb-DF-v2-clean_part*.zip` archives from
+[Zenodo](https://zenodo.org/records/23150212) and extract them into
+`data/training_data/` using the [README commands](../README.md#training-and-fine-tuning).
+The optional [preprocessing workflow](PREPROCESSING.md) also supports preparing
+the selection from original videos or existing preprocessed faces.
 The `Celeb-DF-v2-clean/` prefix and indexed image paths are preserved. Use the
 listed frames for each video, including videos with fewer than 32 images.
 D1 and D2 share one physical `digital/` tree in the support
 archive, avoiding duplicate copies. Their indexes select the corresponding
 subsets. Source-media permissions and terms continue to apply.
+
+## Training Archives
+
+The four archives collectively provide the training images used for CoC, before
+training-time augmentation. They are balanced by file size, with all frames from
+each source video kept together in one archive. Each image appears exactly once.
+They do not represent separate experiments or training/validation splits.
+
+| Archive | Celeb-real images | YouTube-real images | Celeb-synthesis images | Total images | Source videos |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| `Celeb-DF-v2-clean_part1.zip` | 3,979 | 2,195 | 45,011 | 51,185 | 1,607 |
+| `Celeb-DF-v2-clean_part2.zip` | 3,923 | 2,219 | 45,048 | 51,190 | 1,607 |
+| `Celeb-DF-v2-clean_part3.zip` | 4,959 | 2,386 | 43,858 | 51,203 | 1,607 |
+| `Celeb-DF-v2-clean_part4.zip` | 4,748 | 2,183 | 44,260 | 51,191 | 1,606 |
+| Total | 17,609 | 8,983 | 178,177 | 204,769 | 6,427 |
+
+Celeb-real and YouTube-real are labeled real; Celeb-synthesis is labeled fake.
+The images are 256x256 PNGs under
+`Celeb-DF-v2-clean/<source>/frames/<video>/<frame>.png`. The fixed index selects
+up to 32 images per training video. The two digital validation indexes and their
+images are in `ScreenDeepfakeBench_training_support.zip`, not these four archives.

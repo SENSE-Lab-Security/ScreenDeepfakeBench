@@ -101,6 +101,7 @@ class ReleaseTests(unittest.TestCase):
         for command in [
             "prepare_data",
             "prepare_training_data",
+            "prepare_smoke_data",
             "evaluate",
             "train",
             "fine_tune",

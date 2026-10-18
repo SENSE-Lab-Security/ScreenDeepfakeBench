@@ -23,7 +23,7 @@ def main():
         default="all",
         help="all means the 103 recaptured configurations; digital is separate",
     )
-    p.add_argument("--dataset", nargs="+", help="Exact public configuration IDs")
+    p.add_argument("--dataset", nargs="+", help="Exact public configuration or custom index IDs")
     p.add_argument("--workers", type=int, default=4)
     p.add_argument("--batch-size", type=int, default=32)
     p.add_argument("--device", choices=("auto", "cpu", "cuda"), default="auto")
@@ -47,8 +47,8 @@ def main():
     )
     if len(names) != len(set(names)):
         p.error("Dataset IDs must be unique")
-    if not set(names) <= ({d["configuration_id"] for d in configs} | set(DIGITAL)):
-        p.error("Unknown public configuration ID")
+    if any(not name or name in (".", "..") or "/" in name or "\\" in name for name in names):
+        p.error("Dataset IDs must be filenames without directory components")
     for name in names:
         require_file(a.index_root / (name + ".json"))
     require_file(a.weights_dir / "imagenet_xception.pth")

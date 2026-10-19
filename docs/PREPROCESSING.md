@@ -1,7 +1,7 @@
 # Preparing the Celeb-DF Training Selection
 
 The paper's training selection is supplied in
-`ScreenDeepfakeBench_training_support.zip`, under
+`ScreenDeepfakeBench_training_resources.zip`, under
 `training_data/indexes/celebdf_train.json`. Prepared training images are available
 on [Zenodo](https://zenodo.org/records/23150212) as
 `Celeb-DF-v2-clean_part1.zip` through `Celeb-DF-v2-clean_part4.zip`.
@@ -30,7 +30,7 @@ official Celeb-DF split; identities may appear across sets. Use the listed frame
 From the repository root:
 
 ```bash
-unzip ScreenDeepfakeBench_training_support.zip -d data
+unzip ScreenDeepfakeBench_training_resources.zip -d data
 python scripts/prepare_training_data.py --mode audit \
   --manifest outputs/celebdf_train_manifest.json
 ```

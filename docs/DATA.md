@@ -83,4 +83,4 @@ Celeb-real and YouTube-real are labeled real; Celeb-synthesis is labeled fake.
 The images are 256x256 PNGs under
 `Celeb-DF-v2-clean/<source>/frames/<video>/<frame>.png`. The fixed index selects
 up to 32 images per training video. The two digital validation indexes and their
-images are in `ScreenDeepfakeBench_training_support.zip`, not these four archives.
+images are in `ScreenDeepfakeBench_training_resources.zip`, not these four archives.

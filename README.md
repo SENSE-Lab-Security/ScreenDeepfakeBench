@@ -89,7 +89,7 @@ contains `CoC_Dataset_zenodo.zip`.
 | --- | --- |
 | `CoC_Dataset_zenodo.zip` | Recaptured benchmark evaluation |
 | `ScreenDeepfakeBench_models.zip` | Four paper checkpoints and ImageNet initialization |
-| `ScreenDeepfakeBench_training_support.zip` | Training index and digital validation inputs/indexes |
+| `ScreenDeepfakeBench_training_resources.zip` | Training index and digital validation inputs/indexes |
 | `Celeb-DF-v2-clean_part1.zip` through `Celeb-DF-v2-clean_part4.zip` | Prepared training images; download all four |
 
 The prepared training images are available on [Zenodo](https://zenodo.org/records/23150212)
@@ -165,7 +165,7 @@ Download the training-support ZIP and all four training-image ZIPs from Zenodo.
 From the repository root, extract and check them:
 
 ```bash
-unzip ScreenDeepfakeBench_training_support.zip -d data
+unzip ScreenDeepfakeBench_training_resources.zip -d data
 unzip Celeb-DF-v2-clean_part1.zip -d data/training_data
 unzip Celeb-DF-v2-clean_part2.zip -d data/training_data
 unzip Celeb-DF-v2-clean_part3.zip -d data/training_data

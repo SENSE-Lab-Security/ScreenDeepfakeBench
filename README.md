@@ -6,8 +6,22 @@ RAID 2026.
 
 **Shuhao Zhang, Pai Zheng, Yuanzhe Yang, Qinhong Jiang, and Yan Long**
 
+Full Paper  [PDF URL](https://www.researchgate.net/publication/417285483_Caught_on_Camera_Toward_Evaluating_and_Defending_On-Screen_Deepfakes_With_Mobile_and_Wearable_Camera_Devices#fullTextFileContent) 
+
 [Dataset and resources](https://doi.org/10.5281/zenodo.21790607) |
 [Data preparation](docs/DATA.md) | [Training and fine-tuning](docs/TRAINING.md)
+
+## Citation
+
+```bibtex
+@inproceedings{zhang2026caught,
+  title={Caught on Camera: Toward Evaluating and Defending On-Screen Deepfakes With Mobile and Wearable Camera Devices},
+  author={Zhang, Shuhao and Zheng, Pai and Yang, Yuanzhe and Jiang, Qinhong and Long, Yan},
+  booktitle={Proceedings of the 29th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)},
+  year={2026}
+}
+```
+
 
 ## Overview
 
@@ -230,15 +244,5 @@ Detector, backbone, training and metric components are adapted from
 the upstream license are retained in [NOTICE.md](NOTICE.md) and [LICENSE](LICENSE).
 Dataset and source-media terms are separate from the source-code license.
 
-## Citation
-
-```bibtex
-@inproceedings{zhang2026caught,
-  title={Caught on Camera: Toward Evaluating and Defending On-Screen Deepfakes With Mobile and Wearable Camera Devices},
-  author={Zhang, Shuhao and Zheng, Pai and Yang, Yuanzhe and Jiang, Qinhong and Long, Yan},
-  booktitle={Proceedings of the 29th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)},
-  year={2026}
-}
-```
 
 Contact: **Shuhao Zhang**, szhang515@connect.hkust-gz.edu.cn.
